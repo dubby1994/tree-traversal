@@ -10,7 +10,7 @@ import java.util.Stack;
  * 此类是作者自己不参考原来的代码，自己练习使用，请忽略
  * Created by teeyoung on 17/11/10.
  */
-public class Test {
+public class MyTest {
 
     /**
      *          1
